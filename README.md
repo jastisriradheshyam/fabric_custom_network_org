@@ -29,7 +29,7 @@ For larger time up (When cli to be up for more time. Usually it is up for 60 sec
 More info: http://hyperledger-fabric.readthedocs.io/en/release-1.0/build_network.html
 
 ## Files Modified
-__*These are the files modified to get 3 peers in each organization*__
+__*These are the files modified to get 3 Organizations and 3 Peers in each organization*__
 * docker-compose-e2e-template.yaml
 * docker-compose-cli.yaml
     * Used to pass into the docker compose command.
