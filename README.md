@@ -40,3 +40,14 @@ __*These are the files modified to get 3 Organizations and 3 Peers in each organ
 * base/docker-compose-base.yaml
 * configtx.yaml
 * byfn.sh
+
+## Docker Info
+Project Name:
+It is configured by editing .env file (environment file)  
+
+    COMPOSE_PROJECT_NAME=net
+
+Image Tag:
+It is configured by editing .evn file
+
+    IMAGE_TAG=latest
